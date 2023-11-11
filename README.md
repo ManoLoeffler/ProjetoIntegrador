@@ -1,2 +1,3 @@
-# ProjetoIntegrador
-Projeto Integrador Extensionista: IOT  O projeto é elaborado para o FrontEnd de uma aplicação que coletará dados de um terrário e executará a tarefa de irrigação do mesmo de acordo com a porcentagem de umidade do mesmo
+## Extensionist Integrator Project: IOT
+
+The project is designed for the FrontEnd of an application that will collect data from a terrarium and perform the irrigation task according to the humidity percentage of the terrarium.
